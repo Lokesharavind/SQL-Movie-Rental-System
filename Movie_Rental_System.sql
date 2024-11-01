@@ -22,7 +22,7 @@ VALUES
     
 INSERT INTO customers (customer_id, name, age, email, phone) /*inserting values in customers table*/
 VALUES
-    (1, 'Lokesh Aravind.R', 21, 'lokesharavind2003@gmail.com', '9791184279'),
+    (1, 'Lokesh Aravind.R', 21, 'lokesharavind2003@gmail.com', '97911842876'),
     (2, 'Hafeeludeen.V.B.T', 22, 'hafeel21@gmail.com', '9791184579'),
     (3, 'Cindurasri.T.L', 21, 'cindu2002@gmail.com', '9891174276'),
     (4, 'Monisha.B', 22, 'monishab@gmail.com', '7611898279'),
